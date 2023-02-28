@@ -2,3 +2,5 @@
 learning git
 
 Made new changes here
+
+Added to readme from github
